@@ -1,0 +1,9 @@
+{
+    "game_difficulty": "medium",
+    "num_reviews_easy": 40,
+    "num_reviews_medium": 40,
+    "num_reviews_hard": 40,
+    "speed_easy": 220,
+    "speed_medium": 180,
+    "speed_hard": 140
+}
