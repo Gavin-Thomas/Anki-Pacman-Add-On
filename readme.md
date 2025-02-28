@@ -9,8 +9,6 @@
 
 Anki-Pacman transforms studying with Anki into a rewarding game experience. Play the classic arcade game right within Anki, and earn your playtime by completing flashcard reviews. The better you play, the fewer cards you need to review!
 
-![Gameplay Screenshot](https://github.com/Gavin-Thomas/Anki-Pacman-Add-On/blob/main/images/playing.png?raw=true&s=100)
-
 ## ✨ Features
 
 - **Full Pac-Man game** integrated into Anki
@@ -39,14 +37,12 @@ Anki-Pacman transforms studying with Anki into a rewarding game experience. Play
 
 ## 📋 How to Play
 
-1. Click the `PAC` button in the Anki toolbar or go to `Tools` → `Play Pacman`
+1. Click the `Yellow Circle` button in the top left of Anki or go to `Tools` → `Play Pacman`
 2. Press `Space` to start the game
 3. Use the arrow keys to control Pac-Man
 4. Eat all the dots while avoiding ghosts
 5. Eat power pellets to temporarily hunt ghosts
 6. Game over? Complete the required flashcard reviews to play again!
-
-![How To Play](https://raw.githubusercontent.com/yourusername/anki-pacman/main/screenshots/how_to_play.png)
 
 ## 🎯 Game Mechanics
 
