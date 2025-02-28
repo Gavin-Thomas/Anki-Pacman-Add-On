@@ -9,7 +9,7 @@
 
 Anki-Pacman transforms studying with Anki into a rewarding game experience. Play the classic arcade game right within Anki, and earn your playtime by completing flashcard reviews. The better you play, the fewer cards you need to review!
 
-![Gameplay Screenshot](https://raw.githubusercontent.com/yourusername/anki-pacman/main/screenshots/gameplay.png)
+![Gameplay Screenshot](https://github.com/Gavin-Thomas/Anki-Pacman-Add-On/blob/main/images/playing.png?raw=true&s=100)
 
 ## ✨ Features
 
