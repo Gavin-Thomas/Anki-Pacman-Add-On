@@ -3,7 +3,7 @@
 
 **Turn your Anki reviews into a game with this Pac-Man inspired add-on!**
 
-[![Anki Hub](https://img.shields.io/badge/Anki-Add--on-blue?logo=anki)](https://ankiweb.net/shared/info/ADDON_ID_HERE)
+[![Anki Hub](https://img.shields.io/badge/Anki-Add--on-blue?logo=anki)](https://ankiweb.net/shared/info/927867318)
 
 ## 🎮 Overview
 
@@ -24,12 +24,12 @@ Anki-Pacman transforms studying with Anki into a rewarding game experience. Play
 
 1. Open Anki
 2. Click on `Tools` → `Add-ons` → `Get Add-ons...`
-3. Enter the code: `ADDON_ID_HERE`
+3. Enter the code: `927867318`
 4. Restart Anki
 
 ### Manual Installation
 
-1. Download the latest release from [GitHub](https://github.com/yourusername/anki-pacman/releases)
+1. Download the latest release from [GitHub](https://github.com/Gavin-Thomas/Anki-Pacman-Add-On)
 2. Open Anki
 3. Click on `Tools` → `Add-ons` → `Install from file...`
 4. Select the downloaded `.ankiaddon` file
