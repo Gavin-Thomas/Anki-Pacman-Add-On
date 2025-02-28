@@ -1,6 +1,5 @@
-# Anki-Pacman Add-on
 
-![Pacman Banner](https://raw.githubusercontent.com/yourusername/anki-pacman/main/screenshots/banner.png)
+![Pacman Banner](https://github.com/Gavin-Thomas/Anki-Pacman-Add-On/blob/main/images/banner.png?raw=true)
 
 **Turn your Anki reviews into a game with this Pac-Man inspired add-on!**
 
