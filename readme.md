@@ -56,8 +56,6 @@ Eat all the dots in the maze while avoiding the ghosts. Power pellets allow you 
 
 ### Review System
 
-The better you play, the fewer cards you need to review:
-
 | Score Range | Cards to Review |
 |-------------|----------------|
 | < 500       | 20 cards       |
